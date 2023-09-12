@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/lucasdealmeidadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdealmeidadev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdealmeidadev&layout=compact&langs_count=8&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdealmeidadev&layout=compact&langs_count=10&theme=vue-dark"/>
 </div>
 <div style="display: inline_block;"><br>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
